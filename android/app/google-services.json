@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "289723568747",
+    "project_id": "basicauth-ad302",
+    "storage_bucket": "basicauth-ad302.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:289723568747:android:a85d5136ab1350885b572e",
+        "android_client_info": {
+          "package_name": "com.example.basicauth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqHyQyN6HZfaaLgeZ7ctMGT6z2yME739A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
